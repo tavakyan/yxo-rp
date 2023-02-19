@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "bin/yxo-cli",
+    "crates/core"
+]
