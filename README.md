@@ -18,6 +18,8 @@ It is designed using a ports & adapters and uses the CQRS-ES framework with a me
 
 * TODO 
 
+.
+
 ### Executing program
 
 * TODO 
